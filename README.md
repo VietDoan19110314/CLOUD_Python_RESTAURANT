@@ -30,6 +30,8 @@ Ta đặt tên cho môi trường ở mục Name, có thểm thêm mô tả (Des
 Ta để mặc định cho đến cuối cùng ta nhấn Create environment là hoàn tất:
  
 ![Screenshot 2021-12-13 221124](https://user-images.githubusercontent.com/92070234/145843972-bc5f7819-995f-47dc-b6f5-886c2d824648.png)
+
+
 Nếu ta có rồi thì chọn môi trường đó nhấn Open IDE:
 	 	 
 ![Screenshot 2021-12-13 220504](https://user-images.githubusercontent.com/92070234/145844005-ff270f8b-1525-40b2-9903-5b29b8687768.png)
